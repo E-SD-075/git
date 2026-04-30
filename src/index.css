@@ -39,3 +39,11 @@ header nav ul li a {
 header nav ul li a:hover {
     color: #ddd;
 }
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
