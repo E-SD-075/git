@@ -13,5 +13,5 @@ footer {
     display: flex;
     place-items: center;
     font-size: 8px;
-    font-weight: bold;
+    /* font-weight: bold; */
 }
