@@ -27,3 +27,15 @@ header nav ul {
     align-items: center;
     gap: 1rem;
 }
+
+header nav ul li {
+    list-style: none;
+}
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+header nav ul li a:hover {
+    color: #ddd;
+}
