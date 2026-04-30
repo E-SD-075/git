@@ -47,3 +47,10 @@ main {
     align-items: center;
     padding: 2rem;
 }
+
+footer {
+    display: flex;
+    place-items: center;
+    font-size: 8px;
+    /* font-weight: bold; */
+}
